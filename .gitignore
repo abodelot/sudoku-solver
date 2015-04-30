@@ -1,5 +1,5 @@
 # Executable
-bin/sudoku-solver
+sudoku-solver
 
 # Compiled Object files
 *.slo

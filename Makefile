@@ -4,7 +4,7 @@ CC=g++
 CFLAGS= -Wall -Wextra -Wwrite-strings -ansi -pedantic -Isrc
 LDFLAGS= 
 
-EXEC=bin/sudoku-solver
+EXEC=sudoku-solver
 
 # debug/release mode
 DEBUG=no
